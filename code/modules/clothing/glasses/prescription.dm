@@ -6,6 +6,14 @@
 	prescription = 7
 	body_parts_covered = 0
 
+/obj/item/clothing/glasses/prescription/aestheticglasses
+	name = "prescription glasses"
+	desc = "A cheap pair of universal* prescription lenses, in an even cheaper frame."
+	icon_state = "glassesaesthetic"
+	item_state = "glassesaesthetic"
+	prescription = 7
+	body_parts_covered = 0
+
 /obj/item/clothing/glasses/prescription/scanners
 	name = "scanning goggles"
 	desc = "A very oddly shaped pair of goggles with bits of wire poking out the sides. A soft humming sound emanates from it."
